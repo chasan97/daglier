@@ -383,6 +383,10 @@
   /* CSS For Mobile */
   @media (max-width: 1000px) {
 
+    .navbar-brand{
+      width: 200px;
+    }
+
     .project-images{
       width: 100%;
       padding-top: 10px;
