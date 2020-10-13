@@ -401,7 +401,7 @@
     body {
       font-family: 'Karla';
       color: #63686e;
-      font-size: 2.2rem;
+      font-size: 3rem;
     }
     .instagram-icon-cont::after {
       background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
