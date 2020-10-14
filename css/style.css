@@ -156,6 +156,7 @@
   }
 
   .features-h1 {
+    font-size: 4.2rem;
     margin-left: 5%;
     transform: rotate(-2deg);
   }
@@ -166,6 +167,7 @@
   }
 
   .features-h1-2 {
+    font-size: 4.2rem;
     margin-left: 5%;
     transform: rotate(2deg);
   }
@@ -487,7 +489,7 @@
       bottom: 75%;
       color: white;
       right: 1%;
-      font-size: 7rem;
+      font-size: 4.5rem;
       width: 60%;
     }
 
@@ -496,7 +498,7 @@
       bottom: 75%;
       color: black;
       left: 3%;
-      font-size: 7rem;
+      font-size: 4rem;
       width: 60%;
     }
 
