@@ -343,7 +343,7 @@
 
   /* contact-page Section */
   #contact-page {
-    padding-top: 3%;
+    padding-top: 7%;
     padding-bottom: 7%;
 
   }
@@ -535,5 +535,11 @@
     .contact-footer{
       position: fixed;
       bottom: 0;
+    }
+
+    #contact-page {
+      padding-top: 20%;
+      padding-bottom: 7%;
+
     }
   }
